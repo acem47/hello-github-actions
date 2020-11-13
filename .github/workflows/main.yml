@@ -8,6 +8,6 @@ jobs:
       - uses: actions/checkout@v1
       - uses: ./action-a
         with:
-          MY_NAME: "Mohammad trustangle <3"
+          MY_NAME: "Mohammad trustangle <3 !"
 
 
